@@ -1,5 +1,5 @@
 {
-    "name": "@enso-ui/typesense",
+    "name": "@cgdsoftware/typesense",
     "version": "2.0.8",
     "description": "Typesense package",
     "main": "src/bulma/pages/typesense/Index.vue",
@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/enso-ui/typesense#readme",
     "dependencies": {
-        "@enso-ui/forms": "^3.0",
+        "@cgdsoftware/forms": "^3.0",
         "@fortawesome/fontawesome-svg-core": "^1.2.2",
         "@fortawesome/free-solid-svg-icons": "^5.11.2",
         "vue": "^3.0"
