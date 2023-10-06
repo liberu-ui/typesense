@@ -1,6 +1,6 @@
 {
     "name": "@liberu-ui/typesense",
-    "version": "2.0.11",
+    "version": "2.0.12",
     "description": "Typesense package",
     "main": "src/bulma/pages/typesense/Index.vue",
     "scripts": {
