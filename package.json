@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/enso-ui/typesense.git"
+        "url": "git+https://github.com/liberu-ui/typesense.git"
     },
     "keywords": [
         "typesense",
@@ -17,9 +17,9 @@
     "author": "Adrian Ocneanu <aocneanu@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/enso-ui/typesense/issues"
+        "url": "https://github.com/liberu-ui/typesense/issues"
     },
-    "homepage": "https://github.com/enso-ui/typesense#readme",
+    "homepage": "https://github.com/liberu-ui/typesense#readme",
     "dependencies": {
         "@liberu-ui/forms": "^3.0",
         "@fortawesome/fontawesome-svg-core": "^1.2.2",

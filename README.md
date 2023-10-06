@@ -1,2 +1,2 @@
-###  enso-ui - typesense
+###  liberu-ui - typesense
 Coming soon
