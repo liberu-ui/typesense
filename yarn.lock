@@ -949,7 +949,7 @@
   resolved "https://registry.yarnpkg.com/@liberu-ui/directives/-/directives-2.0.8.tgz#93862efb42e8898300c0ed0bf4bb9abea1a9b0bc"
   integrity sha512-emlMWnj4iEVcHlxpZ6GHBZP4Vuwwn0prCs99f70j3H0sFI4i1Iby5Tyu9L+Jo75HaQoZpVUHHAJVCxE1SzhKtg==
   dependencies:
-    highlight.ts "^11.0"
+    highlight.js "^11.0"
     vue "^3.0"
 
 "@liberu-ui/divider@^2.0":
@@ -2817,9 +2817,9 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-highlight.ts@^11.0:
+highlight.js@^11.0:
   version "11.4.0"
-  resolved "https://registry.yarnpkg.com/highlight.ts/-/highlight.ts-11.4.0.tgz#34ceadd49e1596ee5aba3d99346cdfd4845ee05a"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-11.4.0.tgz#34ceadd49e1596ee5aba3d99346cdfd4845ee05a"
   integrity sha512-nawlpCBCSASs7EdvZOYOYVkJpGmAOKMYZgZtUqSRqodZE0GRVcFKwo1RcpeOemqh9hyttTdd5wDBwHkuSyUfnA==
 
 hosted-git-info@^2.1.4:
